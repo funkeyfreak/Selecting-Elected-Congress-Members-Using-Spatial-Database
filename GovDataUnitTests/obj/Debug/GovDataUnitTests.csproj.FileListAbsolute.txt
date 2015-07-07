@@ -1,0 +1,14 @@
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.csprojResolveAssemblyReference.cache
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovDataUnitTests.dll
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovDataUnitTests.pdb
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovData.dll
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovData.pdb
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.dll
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.pdb
+C:\Users\cban\Dropbox\Uni\Year 4\Year 4 - Semester 2\CPTR521\HW\Spatial\Voting 2\GovData\GovDataUnitTests\bin\Debug\GovDataUnitTests.dll
+C:\Users\cban\Dropbox\Uni\Year 4\Year 4 - Semester 2\CPTR521\HW\Spatial\Voting 2\GovData\GovDataUnitTests\bin\Debug\GovDataUnitTests.pdb
+C:\Users\cban\Dropbox\Uni\Year 4\Year 4 - Semester 2\CPTR521\HW\Spatial\Voting 2\GovData\GovDataUnitTests\bin\Debug\GovData.dll
+C:\Users\cban\Dropbox\Uni\Year 4\Year 4 - Semester 2\CPTR521\HW\Spatial\Voting 2\GovData\GovDataUnitTests\bin\Debug\GovData.pdb
+C:\Users\cban\Dropbox\Uni\Year 4\Year 4 - Semester 2\CPTR521\HW\Spatial\Voting 2\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\cban\Dropbox\Uni\Year 4\Year 4 - Semester 2\CPTR521\HW\Spatial\Voting 2\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.dll
+C:\Users\cban\Dropbox\Uni\Year 4\Year 4 - Semester 2\CPTR521\HW\Spatial\Voting 2\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.pdb

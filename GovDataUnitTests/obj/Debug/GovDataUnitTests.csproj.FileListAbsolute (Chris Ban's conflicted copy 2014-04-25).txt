@@ -1,0 +1,7 @@
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.csprojResolveAssemblyReference.cache
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovDataUnitTests.dll
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovDataUnitTests.pdb
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovData.dll
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\bin\Debug\GovData.pdb
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.dll
+e:\Docs\visual studio 2013\Projects\GovData\GovDataUnitTests\obj\Debug\GovDataUnitTests.pdb

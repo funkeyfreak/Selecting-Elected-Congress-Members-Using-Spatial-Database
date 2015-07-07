@@ -1,0 +1,5 @@
+e:\docs\visual studio 2013\Projects\GovData\GovData\bin\Debug\GovData.dll
+e:\docs\visual studio 2013\Projects\GovData\GovData\bin\Debug\GovData.pdb
+e:\docs\visual studio 2013\Projects\GovData\GovData\obj\Debug\GovData.dll
+e:\docs\visual studio 2013\Projects\GovData\GovData\obj\Debug\GovData.pdb
+e:\Docs\visual studio 2013\Projects\GovData\GovData\obj\Debug\GovData.csprojResolveAssemblyReference.cache
